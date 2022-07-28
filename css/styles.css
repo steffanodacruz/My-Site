@@ -46,6 +46,7 @@ hr {
 }
 
 p {
+  font-weight: bold;
   line-height: 2;
 }  /*the 'line-height' CSS property is used to set the height of a line box. it inceases
 the space between two lines of text.*/

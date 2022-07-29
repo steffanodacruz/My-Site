@@ -56,11 +56,11 @@ the space between two lines of text.*/
 }
 
 .title {
-  margin: 0 auto 3.12rem auto;
+  margin: 0 auto 50px auto;
 }
 
 .title2 {
-  margin: 0 auto 12.5rem auto;
+  margin: 0 auto 200px auto;
 }
 
 .top-container {
@@ -86,8 +86,8 @@ the space between two lines of text.*/
 
 .second-cloud {
   position: absolute;
-  right: 31.25rem;
-  top: 6.25rem;
+  right: 500px;
+  top: 100px;
 }
 
 .image {
